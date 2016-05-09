@@ -1,0 +1,5 @@
+Lesson 2
+sec 1
+
+GIT creates hidden directory for internal files (or old versions?) when initialising the repository. It might be possible to set up the directory structure manually as well, but likely there's a need for a shortcut.
+

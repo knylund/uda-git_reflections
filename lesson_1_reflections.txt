@@ -1,0 +1,23 @@
+Reflections on GIT course 
+
+Sec. 1
+
+Diff was kind of familiar, but I'm more used to the coloured output of
+modern tools. Diff was somehow familiar, didn't know about fc on Windows.
+
+Sec. 2
+
+More efficient programmer -- At least committing a version often allows me to undo to last good state of the program, and committing often makes spotting the error faster.
+
+Sec. 3
+Pro and con of manually committing. Pro: Only the programmer understands what is a meaningful atomic change to the code. Con: Takes practice and discipline.
+
+Sec. 4
+Multiple file commits... They are a feature for those vcs:s that are aimed at coding. 
+
+Sec. 6
+Confidence... It's easier to do drastical changes when there's a known good version to go back to. Also the changes can be done in a few iterations.
+
+Sec. 7 how I want to use GIT: Start storing my private projects there, not just locally on work computer.
+
+Last good: 71d52709dd, first bad 547f417

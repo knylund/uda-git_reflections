@@ -3,3 +3,15 @@ sec 1
 
 GIT creates hidden directory for internal files (or old versions?) when initialising the repository. It might be possible to set up the directory structure manually as well, but likely there's a need for a shortcut.
 
+Staging area is an intermediate area where the files to be committed are collected. This gives an opportunity to add new files, collect changes etc so they all are committed at once.
+
+To review what is being committed: git status, git diff.
+
+Branches. Before releasing a version, branch so hot fixes can be done. If a larger set of changes are being done, that could also be a reason for splitting.
+
+Branches... Diagrams explains which features are included in the different branches, and when things need to be merged to function.
+
+Merges. Merging includes the changes done to both branches and creates a new version containing all of these changes.
+
+Auto-merge usually works, but can fail if changes are done to the same piece of code. Manual conflict resolution is work.
+
